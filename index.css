@@ -1,0 +1,27 @@
+h1 {
+    color: rgb(112, 145, 235);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-style: solid;
+    border-color: orchid;
+    background-color: white;
+    
+}
+
+h2 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   border-style: dotted;
+   border-width: thick;
+   border-color: rgb(117, 117, 211);
+}
+
+.img-marist {
+    width: 100px;
+}
+
+body {
+background-color: rgb(192, 137, 243);
+border-style: double;
+border-color: mediumpurple;
+border-width: thick;
+
+ }
