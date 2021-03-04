@@ -3,6 +3,7 @@
     padding: 0;
 }
 
+  
 body {
     background-color: darkgray;
 
@@ -19,14 +20,18 @@ h1 {
     border-style: solid;
     border-color: rgb(85, 139, 85);
     background-color: rgb(134, 185, 197);
+    font-size: medium;
     
 }
 
 h2 {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: 'Times New Roman', Times, serif;
    border-width: thin;
    border-color: rgb(186, 186, 248);
    border-style: double;
+  font-size: small;
+  background-color: aquamarine;
+
 }
 
 .img-marist {
@@ -95,3 +100,5 @@ td, th {
 tr:nth-child(even){
     background-color: #ddddddd
 }
+
+
